@@ -1,1 +1,21 @@
 # neuroloab-django
+
+### Step 1 - Install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+### Step 2 - Run below command, Django creates a ineuron folder.
+```bash
+django-admin startproject ineuron
+```
+
+### Step 3 - Change directory
+```bash
+cd ineuron
+```
+
+### Step 4 - Run the Django Project
+```bash
+python manage.py runserver
+```
